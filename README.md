@@ -43,6 +43,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherpath&show_icons=true&locale=en&layout=compact" alt="cipherpath" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cipherpath&show_icons=true&locale=en" alt="cipherpath" /></p>
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cipherpath&" alt="cipherpath" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cipherpath&" alt="cipherpath" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
