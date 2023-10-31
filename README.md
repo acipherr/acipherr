@@ -23,9 +23,9 @@
 
 - 👯 I’m looking to collaborate on **Projects and Open Source**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MEAN**
 
 - 📫 How to reach me **mailtoabhishekpathak@gmail.com**
 
