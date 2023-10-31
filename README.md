@@ -17,13 +17,13 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipherpath&label=Profile%20views&color=0e75b6&style=flat" alt="cipherpath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acipherr&label=Profile%20views&color=0e75b6&style=flat" alt="acipherr" /> </p>
 
 - 🔭 I’m currently working on **DSA**
 
 - 👯 I’m looking to collaborate on **Projects and Open Source**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development{Angular}**
 
 - 💬 Ask me about **MEAN**
 
