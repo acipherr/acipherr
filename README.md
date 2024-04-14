@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Frontend Development{Angular}**
 
-- 💬 Ask me about **MEAN**
+- 💬 Ask me about **MERN & MEAN**
 
 - 📫 How to reach me **mailtoabhishekpathak@gmail.com**
 
